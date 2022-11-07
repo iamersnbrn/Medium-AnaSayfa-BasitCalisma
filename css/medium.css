@@ -1,0 +1,47 @@
+.font {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 106px;
+    line-height: 95px;
+    text-align: start;
+    letter-spacing: -5.3px;
+    color: #080808;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.p-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: start;
+    letter-spacing: normal;
+    color: #292929;
+    margin-top: 35px;
+    margin-right: 110px;
+    margin-bottom: 30px;
+}
+
+.btn1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #ffffff;
+    background-color: #191919;
+    box-shadow: none;
+    border-radius: 1980px;
+}
+
+
+.bg-yellow {
+    background-color: #ffc017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #414141
+}
+
+.aside-buttons > li {
+margin-bottom: 10px;
+}
